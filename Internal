@@ -3,13 +3,13 @@ API_HASH=d927c13beaaf5110f25c505b7c071273
 BOT_TOKEN=5350970369:AAExKEChHQWDj5bwWmeuJH_pKw75Pva96XI
 STRING_SESSION=BQB_y5YvTaBbDnZ4QwHWXCjy6CJUgnSHsFqsPP4cag4BrIkee7BAN6yyTnFnh4WAu9viY8_1aO16i9TtcYkpSEKsdZqjS_Hsb0hJhh-N-yMMVuCEna2xmfyhi88A3yBV26i0Nsi-mJPA6RyCEJhOG3PWC_1P-Q5WjgFzZlU7KXwaAo9aI0xy0wwDWA3LXh1vcfMZn-SXHTYEjV4Uj_TjGTZxKDPyoW3CNtEJt8M4ZOLXU1VNTTuP8IxILe6RNodIV823FNdheW0jSCmJnvSGJjFZz5uwxTx3FWyRevjdgjFvBlymboYpjIZXPTLYdZSpZtTBuvwlZBsbPfigDsob-EAAAAAWLYGtAA
 MUSIC_BOT_NAME=˹sᴧɴᴋɪ ꭙ ᴍᴜsɪᴄ˼
-MONGO_DB_URL=
+MONGO_DB_URL=mongodb+srv://itsmerishabh:itsmerishabh@cluster0.d4iryu7.mongodb.net/?retryWrites=true&w=majority
 DURATION_LIMIT=120
-LOG_GROUP_ID=
-OWNER_ID=
+LOG_GROUP_ID=-1001858454550
+OWNER_ID=5470956337
 SUPPORT_CHANNEL=https://t.me/adityaserver
 SUPPORT_GROUP=https://t.me/adityadiscus
-UPSTREAM_REPO=https://github.com/XdityaHalder/SankiMusic
+UPSTREAM_REPO=https://github.com/chetanuser/Snmu
 UPSTREAM_BRANCH=aditya
 AUTO_DOWNLOADS_CLEAR=True
 
